@@ -174,8 +174,6 @@ View the complete database diagram: [Eraser Diagram](https://app.eraser.io/works
 2. **Add environment variables in Vercel dashboard**
 3. **Deploy automatically on every push to main branch**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ketan-cmd/Easy-Expense)
-
 ## 📎 Useful Links
 
 - **[Neon Database](https://get.neon.com/0pFcBSF)** - Serverless PostgreSQL
